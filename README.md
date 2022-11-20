@@ -1,9 +1,9 @@
-# SaveMover2
+SaveMover2
 The newer and improved version of SaveMover
 
 Whats new ?
 
-General:
+##General:
 
 -Added button controls for the Program
 -ESC,q and Q can now be used to close windows
