@@ -1,40 +1,47 @@
-SaveMover2
-The newer and improved version of SaveMover
+# SaveMover2  
+## The new and improved version of SaveMover  
 
-Whats new ?
+Why do I need this tool ?  
+It is actually quite simple. 
+Have you ever played a game on two PCs simultaniously and the game had no cloud save so you had 2 different savegames?  
+Well, that ends now. With using Savemover2, you can easily transfer savegames from one platform to the other.  
+Just set up the program and start playing.  
 
-##General:
+# Whats new ?  
 
--Added button controls for the Program
--ESC,q and Q can now be used to close windows
--General stability and performance improvements
--Checking mechanism added to ensure all neccessary Paths/Files are present
+## General:  
+
+-New program structure as well as a new design  
+-Added button controls for the Program  
+-ESC,q and Q can now be used to close windows  
+-General stability and performance improvements  
+-Checking mechanism added to ensure all neccessary Paths/Files are present  
 
 
-##Settings:
+## Settings:  
 
-Prior:
--Find the correct path,copy and paste + edit it
+Prior:  
+-Find the correct path,copy and paste + edit it  
 
-Now:
+#### Now:  
 
--Paths can be inserted via Windows FileDialog
+-Paths can be inserted via Windows FileDialog  
 -Improved the saving mechanism
 
-##Help Menu:
+## Help Menu:  
 
-Prior Version:
--Opened Help.txt
+Prior Version:  
+-Opened Help.txt  
 
-Now:
+Now:  
 
--Help Center with topics to choose from
--Troubleshooter now included
--HowToUse Manual
+-Help Center with topics to choose from  
+-Troubleshooter now included  
+-HowToUse Manual  
 
 
-##Game start:
+## Game start:  
 
 -Program now performs a few critical tests to ensure that the savegame is present, in its right location
- and the game path is given + game is present
+ and the game path is given + game is present  
 -Automatically opens HelpCenter when something went wrong for you to check
